@@ -1,8 +1,8 @@
 [
   {
     "remote":       "github",
-    "repository":   "NicholasPace/android_kernel_asus_Z00A",
-    "target_path":  "kernel/asus/Z00A",
+    "repository":   "NicholasPace/android_kernel_asus_moorefield",
+    "target_path":  "kernel/asus/moorefield",
     "branch":       "cm-12.1"
   },
   {
