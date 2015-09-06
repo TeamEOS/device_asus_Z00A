@@ -1,0 +1,74 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "NicholasPace/android_kernel_asus_Z00A",
+    "target_path":  "kernel/asus/Z00A",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_device_asus_mofd-common",
+    "target_path":  "device/asus/mofd-common",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/proprietary_vendor_asus",
+    "target_path":  "vendor/asus",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libmix",
+    "target_path":  "hardware/intel/common/libmix",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libstagefrighthw",
+    "target_path":  "hardware/intel/common/libstagefrighthw",
+    "branch":       "cm-12.1"
+  },  
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libva",
+    "target_path":  "hardware/intel/common/libva",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_omx-components",
+    "target_path":  "hardware/intel/common/omx-components",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_utils",
+    "target_path":  "hardware/intel/common/utils",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_wrs_omxil_core",
+    "target_path":  "hardware/intel/common/wrs_omxil_core",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_hwcomposer",
+    "target_path":  "hardware/intel/img/hwcomposer",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_libdrm",
+    "target_path":  "hardware/intel/img/libdrm",
+    "branch":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_psb_video",
+    "target_path":  "hardware/intel/img/psb_video",
+    "branch":       "cm-12.1"
+  }
+]
