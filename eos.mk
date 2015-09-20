@@ -4,7 +4,7 @@ TARGET_SCREEN_WIDTH := 1920
 
 # Copy Bootanimation
 PRODUCT_COPY_FILES += \
-vendor/eos/prebuilt/common/bootanimation/1080.zip:system/media/bootanimation.zip
+vendor/eos/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 # Inherit some common CM stuff.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
