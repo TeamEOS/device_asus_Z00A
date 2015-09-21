@@ -27,13 +27,13 @@
     "remote":       "github",
     "repository":   "CM-zenfone2/android_hardware_intel_common_libstagefrighthw",
     "target_path":  "hardware/intel/common/libstagefrighthw",
-    "branch":       "cm-12.1"
+    "revision":       "cm-12.1"
   },  
   {
     "remote":       "github",
     "repository":   "CM-zenfone2/android_hardware_intel_common_libva",
     "target_path":  "hardware/intel/common/libva",
-    "branch":       "cm-12.1"
+    "revision":       "cm-12.1"
   },
   {
     "remote":       "github",
